@@ -10,3 +10,9 @@ This restaurant is very famous for **different** types of delicious **Mandi**.Th
 2. Mutton Mandi
 3. Fish Mandi
 4. All mix mandi
+
+## Places to visit near the restaurant
+* Charminar
+* Golconda Fort
+* Salar Jung Museum
+* Nehru Zoological Park
