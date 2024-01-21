@@ -12,3 +12,13 @@ The below table provides some details of my favourite book/song/video.
 | Five Point Someone | Indian Education System | Chetan Bhagat|
 | Vande Mataram Song | Beautiful national song of India | A.R.Rahaman |
 | Tum Hi Ho Song | Emotional melody song | Arijit Singh |
+
+-------
+## FAVOURITE QUOTES
+>"Imagination is more important than knowledge."
+
+>"In the middle of difficulty lies opportunity."
+
+>"The only source of knowledge is experience."
+
+-- *Albert Einstein*
