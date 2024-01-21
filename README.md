@@ -16,3 +16,5 @@ This restaurant is very famous for **different** types of delicious **Mandi**.Th
 * Golconda Fort
 * Salar Jung Museum
 * Nehru Zoological Park
+
+[MyMedia](./MyMedia.md)
