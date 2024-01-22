@@ -36,4 +36,4 @@ Promise.all([ promise_1, promise_2 ]).then((values) => {
     // one of input Promises rejected
 });
 ```
-[Google](https://code.pieces.app/collections/javascript)
+[Program code](https://code.pieces.app/collections/javascript)
