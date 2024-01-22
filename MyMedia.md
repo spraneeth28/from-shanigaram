@@ -28,12 +28,11 @@ The below table provides some details of my favourite book/song/video.
 The use of promise.all is to combine the outcomes of a given array of promises, resolving when all promises are successfully resolved or if any of them is rejected.
 
 ```
-Combine the outcomes of a given array of promises, resolving when all promises are successfully resolved or if any of them is rejected.Combine the outcomes of a given array of promises, resolving when all promises are successfully resolved or if any of them is rejected.
-```
 Promise.all([ promise_1, promise_2 ]).then((values) => {
     // all input Promises resolved
 }).catch((reason) => {
     // one of input Promises rejected
 });
 ```
-[Program code](https://code.pieces.app/collections/javascript)
+
+[code link](https://code.pieces.app/collections/javascript)
